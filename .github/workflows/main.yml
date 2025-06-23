@@ -34,7 +34,7 @@ jobs:
       - name: Build with VitePress
         run: yarn docs:build
         env:
-          BASE: "/vitepress-bug-reproduction/"
+          BASE: "/vitepress-with-patch/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
