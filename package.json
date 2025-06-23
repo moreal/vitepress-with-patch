@@ -3,7 +3,7 @@
   "packageManager": "yarn@4.9.2",
   "devDependencies": {
     "@types/node": "^24.0.3",
-    "vitepress": "^1.6.3"
+    "vitepress": "patch:vitepress@npm%3A1.6.3#~/.yarn/patches/vitepress-npm-1.6.3-179bc5feb5.patch"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
