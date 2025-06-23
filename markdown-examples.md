@@ -84,6 +84,6 @@ This is a details block.
 
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
 
-## With <a>a tag</a>
+## With <a>a tag</a> heading
 
-## With <code>code tag</code>
+## With <code>code tag</code> heading
